@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to covid19-max
 
 You can use the [editor on GitHub](https://github.com/covid19-max/covid19-max.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
